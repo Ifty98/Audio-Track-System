@@ -1,0 +1,1 @@
+Developed a console-based program in C++ for users to open, read and store the data of a file inside a data structure (hash table). The program provides user interface to select one of the following options: save, search and remove specific data from the data structure to the file.
